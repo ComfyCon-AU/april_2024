@@ -1,0 +1,53 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "CFP"
+url = "cfp/"
+weight = 3
+
+[[main]]
+weight = 4
+name = "Previous Events"
+hasChildren = true
+
+[[main]]
+parent = "Previous Events"
+name = "April 2020"
+url = "previous_events/2020_04"
+
+[[main]]
+parent = "Previous Events"
+name = "November 2020"
+url = "previous_events/2020_11"
+
+[[main]]
+parent = "Previous Events"
+name = "April 2022"
+url = "previous_events/2022_04"
+
+[[main]]
+parent = "Previous Events"
+name = "November 2022"
+url = "previous_events/2022_11/"
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Code of Conduct"
+url = "code-of-conduct/"
+weight = 2
