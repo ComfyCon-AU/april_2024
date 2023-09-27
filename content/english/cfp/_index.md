@@ -4,10 +4,6 @@ meta_title: "CFP"
 description: "this is meta description"
 image: false
 draft: false
-button:
-  enable: true
-  label: "Submit to the CFP"
-  link: "https://t.co/mMLokmngV5"
 ---
 ComfyCon AU 2024 CFP is currently open.
 

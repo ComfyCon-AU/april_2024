@@ -23,21 +23,25 @@ hasChildren = true
 
 [[main]]
 parent = "Previous Events"
+weight = 1
 name = "April 2020"
 url = "previous_events/2020_04"
 
 [[main]]
 parent = "Previous Events"
+weight = 2
 name = "November 2020"
 url = "previous_events/2020_11"
 
 [[main]]
 parent = "Previous Events"
+weight = 3
 name = "April 2022"
 url = "previous_events/2022_04"
 
 [[main]]
 parent = "Previous Events"
+weight = 4
 name = "November 2022"
 url = "previous_events/2022_11/"
 

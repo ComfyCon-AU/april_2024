@@ -15,12 +15,8 @@ features:
     image: "/images/1691663441674.jpg"
     content: "Join us on Saturday 4th of April from 12pm (AEDT)"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Coming soon"
+
     button:
       enable: true
       label: "About ComfyCon"
