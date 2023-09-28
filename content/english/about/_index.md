@@ -29,7 +29,7 @@ You certainly can, the recordings from the previous ComfyCon AU conferences are 
 
 {{< accordion "#### When will the next ComfyCon AU conference be held?" >}}
 
-The best place to find out about the next conference is on the ComfyConAU [Twitter](https://twitter.com/comfyconau) feed, or join the [discord channel](https://discord.gg/FCcbX866CN).
+The best place to find out about the next conference is on the ComfyConAU [Twitter](https://twitter.com/comfyconau) feed, or join the [discord server](https://discord.gg/FCcbX866CN).
 
 {{< /accordion >}}
 
