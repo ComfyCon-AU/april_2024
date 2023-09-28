@@ -13,7 +13,7 @@ ComfyCon AU was originally constructed as a conference in March 2020 as a respon
 We have a lot of amazing speakers from across Australia and New Zealand (and on special occasion, the world). We also have a group of great volunteers who look after both the conference, but also the Discord channel long term. 
 
 ##### Comfy Couch Potatoes
-The crazy ideas and overall running of the event is conducted by [Iain Dickson](https://twitter.com/wan0net) and [Shanna Daly](https://twitter.com/fancy_4n6) with a lot of support from Bryan Nolan and Hoodie Pony for audio, visual, run sheets and general cat herding for each conference.
+The crazy ideas and overall running of the event is conducted by [Iain Dickson](https://twitter.com/wan0net) and [Shanna Daly](https://twitter.com/fancy_4n6) with a lot of support from [Bryan Nolen](https://twitter.com/BryanNolen) and [hoodiePony](https://twitter.com/hoodiePony) for audio, visual, run sheets and general cat herding for each conference.
 
 We also recognise the contributions of Andrea Lewis, an original Comfy Couch Potato and brain child as well as the designer of our much loved ComfyConAU logo and potato.
 
