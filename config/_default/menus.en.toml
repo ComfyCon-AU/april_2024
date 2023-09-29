@@ -16,11 +16,11 @@ name = "CFP"
 url = "cfp/"
 weight = 3
 
-[[main]]
-weight = 4
-name = "Previous Events"
-url = "previous_events/"
-hasChildren = true
+# [[main]]
+# weight = 4
+# name = "Previous Events"
+# url = "previous_events/"
+# hasChildren = true
 
 # [[main]]
 # parent = "Previous Events"
