@@ -26,7 +26,7 @@ url = "previous_events/"
 parent = "Previous Events"
 weight = 1
 name = "April 2020"
-url = "previous_events/2020_04"
+url = "previous_events/2020_04/"
 
 [[main]]
 parent = "Previous Events"
