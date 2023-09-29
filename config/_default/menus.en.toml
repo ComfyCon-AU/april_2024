@@ -25,14 +25,8 @@ hasChildren = true
 [[main]]
 parent = "Previous Events"
 weight = 1
-name = "April 2020 test"
-url = "categories/2020_04/"
-
-[[main]]
-parent = "Previous Events"
-weight = 1
 name = "April 2020"
-url = "previous_events/2020_04/"
+url = "categories/2020_04/"
 
 [[main]]
 parent = "Previous Events"
