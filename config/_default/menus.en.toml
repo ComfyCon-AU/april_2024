@@ -20,7 +20,7 @@ weight = 3
 weight = 4
 name = "Previous Events"
 hasChildren = true
-url = "previous_events"
+url = "previous_events/"
 
 [[main]]
 parent = "Previous Events"
