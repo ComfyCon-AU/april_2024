@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "We are back in 2024"
-  content: <div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countdown/4480727" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="Countdown to ComfyConAU 2024"></iframe></div>
+  content: <div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countdown/4480727" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="Countdown to ComfyConAU 2024"></iframe></div><br><br>
   image: false
   button:
     enable: true
