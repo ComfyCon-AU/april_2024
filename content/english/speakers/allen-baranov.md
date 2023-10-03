@@ -3,7 +3,6 @@ title: Allen Baranov
 #email: samwilson@email.com
 image: "/images/avatar.png"
 description: Allen Baranov
-tags: ["speaker_2020_04"]
 social:
 #  - name: github
 #    icon: fa-brands fa-github
