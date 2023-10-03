@@ -1,7 +1,7 @@
 ---
 title: "How to fight a virus with a spreadsheet"
 meta_title: ""
-description: "How to fight a virus with a spreadsheet"
+description: "ComfyCon AU April 2020"
 date: 2020-04-11
 #image: "/images/2020_logo.png"
 categories: ["April_2020"]

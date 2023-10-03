@@ -1,7 +1,7 @@
 ---
 title: "Meditation for Crisis Professionals"
 meta_title: ""
-description: "this is meta description"
+description: "ComfyCon AU April 2020"
 date: 2020-04-11
 #image: "/images/2020_logo.png"
 categories: ["April_2020"]

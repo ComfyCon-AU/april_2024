@@ -1,7 +1,7 @@
 ---
 title: "MageCart - modern web attacks for fun and profit"
 meta_title: ""
-description: "this is meta description"
+description: "ComfyCon AU November 2020"
 date: 2020-11-29
 #image: "/images/2020_logo.png"
 categories: ["November_2020"]
