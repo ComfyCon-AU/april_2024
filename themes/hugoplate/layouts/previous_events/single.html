@@ -15,10 +15,17 @@
           <ul class="mb-4">
             <li class="mr-4 inline-block">
               <a
-                href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
+                href="{{ `speakers/` | relLangURL }}{{ .Params.Speaker | urlize }}/">
                 <i class="fa-regular fa-circle-user mr-2"></i
-                >{{ .Params.author }}
+                >{{ .Params.speaker }}
               </a>
+              {{ $speaker2:= .Params.Speaker2 }}
+              {{ if $speaker2 }}
+              &
+              <a href="{{ `speakers/` | relLangURL }}{{ .Params.Speaker2 | urlize }}/">
+                <i class="fa-regular fa-circle-user mr-2"></i>{{ .Params.speaker2 }}
+              </a>
+                {{ end }}
             </li>
             <li class="mr-4 inline-block">
               <i class="fa-regular fa-folder mr-2"></i>
@@ -43,7 +50,7 @@
           </div>
           <div class="row items-start justify-between">
             <div class="lg:col-5 mb-10 flex items-center lg:mb-0">
-              
+
             </div>
             <div class="lg:col-4 flex items-center">
               {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (i18n "share") "Whatsapp" false "Telegram" false) }}
@@ -59,7 +66,7 @@
           <div class="row">
             {{ range . }}
               <div class="lg:col-4">
-                {{ partial "components/blog-card" . }}
+                {{ partial "components/talk-card" . }}
               </div>
             {{ end }}
           </div>

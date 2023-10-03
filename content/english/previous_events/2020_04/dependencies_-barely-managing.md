@@ -2,9 +2,9 @@
 title: "Dependencies: Barely Managing"
 meta_title: ""
 description: ComfyCon AU 2020 Winter
-date: 4/11/2020
+date: 2020-04-11
 categories: ["ComfyCon AU 2020 Winter"]
-author: "sh3r4_hax"
+speaker: "sh3r4_hax"
 draft: false
 ---
 Colloquially, infosec and developers don’t share a unified definition for concepts like “dependency management”. Effective communication is already undermined, so let’s start at first principles and try to understand one another.

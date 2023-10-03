@@ -2,9 +2,9 @@
 title: Introduction to Lockpicking
 meta_title: ""
 description: ComfyCon AU 2020 Winter
-date: 4/11/2020
+date: 2020-04-11
 categories: ["ComfyCon AU 2020 Winter"]
-author: Marshmallow
+speaker: Marshmallow
 draft: false
 ---
 An introduction to Lockpicking from some of the youngest members of our community!

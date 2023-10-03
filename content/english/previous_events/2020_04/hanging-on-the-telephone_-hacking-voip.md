@@ -2,9 +2,9 @@
 title: "Hanging on the Telephone: Hacking VoIP"
 meta_title: ""
 description: ComfyCon AU 2020 Winter
-date: 4/11/2020
+date: 2020-04-11
 categories: ["ComfyCon AU 2020 Winter"]
-author: Sarah Young
+speaker: Sarah Young
 draft: false
 ---
 Before security, Sarah spent a decent amount of her career deploying VoIP systems. In this talk, I detail some of the ways that VoIP systems can be hacked and used for nefarious purposes. 

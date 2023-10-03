@@ -2,9 +2,9 @@
 title: Automating the Boring
 meta_title: ""
 description: ComfyCon AU 2020 Winter
-date: 4/11/2020
+date: 2020-04-11
 categories: ["ComfyCon AU 2020 Winter"]
-author: Renée 
+speaker: Renée 
 draft: false
 ---
 Cyber is schmick! It's pretty! It lets me hunt down bad guys and nuke 'em from orbit!

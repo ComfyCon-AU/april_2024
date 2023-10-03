@@ -2,9 +2,9 @@
 title: Security at the speed of DevOps
 meta_title: ""
 description: ComfyCon AU 2020 Winter
-date: 4/11/2020
+date: 2020-04-11
 categories: ["ComfyCon AU 2020 Winter"]
-author: Uday Korlimarla
+speaker: Uday Korlimarla
 draft: false
 ---
 Today, Speed to market is everything. But speed and security can both be achieved at the same time.

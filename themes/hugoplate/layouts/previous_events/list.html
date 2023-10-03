@@ -11,16 +11,11 @@
             {{ $paginator:= .Paginate .RegularPages }}
             {{ range $paginator.Pages }}
               <div class="md:col-6 mb-14">
-                {{ partial "components/blog-card" . }}
+                {{ partial "components/talk-card" . }}
               </div>
             {{ end }}
           </div>
           {{ partial "components/pagination.html" . }}
-        </div>
-        <!-- sidebar -->
-        <div class="lg:col-4">
-          <!-- widget -->
-          {{ $widget:= site.Params.widgets.youtube }}
         </div>
       </div>
     </div>

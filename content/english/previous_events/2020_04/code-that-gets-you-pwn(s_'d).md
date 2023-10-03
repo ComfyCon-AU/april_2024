@@ -2,9 +2,9 @@
 title: Code that gets you pwn(s|'d)
 meta_title: ""
 description: ComfyCon AU 2020 Winter
-date: 4/11/2020
+date: 2020-04-11
 categories: ["ComfyCon AU 2020 Winter"]
-author: Louis
+speaker: Louis
 draft: false
 ---
 In this talk, Louis will cover examples of vulnerabilities that are not necessarily obvious. We will look at some snippets in Golang, Ruby, Python..

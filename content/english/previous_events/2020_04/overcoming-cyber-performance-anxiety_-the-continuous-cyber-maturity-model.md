@@ -2,9 +2,9 @@
 title: "Overcoming Cyber Performance Anxiety: The Continuous Cyber Maturity Model"
 meta_title: ""
 description: ComfyCon AU 2020 Winter
-date: 4/11/2020
+date: 2020-04-11
 categories: ["ComfyCon AU 2020 Winter"]
-author: Andrew Scully
+speaker: Andrew Scully
 draft: false
 ---
 Unending data breaches, outages and compromises can leave security senior leadership with “cyber performance anxiety” and organisations asking the question; does our security program REALLY deliver the outcomes we need? Does the program really work?

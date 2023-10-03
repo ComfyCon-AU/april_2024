@@ -2,9 +2,9 @@
 title: Access your social media archives!
 meta_title: ""
 description: ComfyCon AU 2020 Winter
-date: 4/11/2020
+date: 2020-04-11
 categories: ["ComfyCon AU 2020 Winter"]
-author: Caitlin
+speaker: Caitlin
 draft: false
 ---
 You can download archives of a lot of your history on social media sites as a result of the GDPR requirements being brought into play.

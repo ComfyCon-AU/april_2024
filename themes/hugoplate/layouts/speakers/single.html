@@ -36,10 +36,10 @@
       </div>
 
       <div class="row pb-16 pt-14">
-        {{ $filterByAuthor := where site.RegularPages "Params.author" "==" .Title }}
-        {{ range $filterByAuthor }}
+        {{ $filterBySpeaker := where site.RegularPages "Params.speaker" "==" .Title }}
+        {{ range $filterBySpeaker }}
           <div class="md:col-6 lg:col-4 mb-12">
-            {{ partial "components/blog-card" . }}
+            {{ partial "components/talk-card" . }}
           </div>
         {{ end }}
       </div>

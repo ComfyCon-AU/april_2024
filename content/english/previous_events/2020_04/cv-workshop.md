@@ -2,9 +2,9 @@
 title: CV Workshop
 meta_title: ""
 description: ComfyCon AU 2020 Winter
-date: 4/11/2020
+date: 2020-04-11
 categories: ["ComfyCon AU 2020 Winter"]
-author: Ricki Burke
+speaker: Ricki Burke
 draft: false
 ---
 Ricki runs through his top tips for developing a CV, what you should and shouldn't do, and what industry hiring representatives look for. 
