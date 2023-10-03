@@ -19,6 +19,10 @@ social:
   - name: mastodon
     icon: fab fa-mastodon
     link: https://infosec.exchange/@Shanna
+
+  - name: bluesky
+  - icon: fab fa-bluesky
+  - link: https://bsky.app/profile/shannadaly.bsky.social
 ---
 
 Shanna Daly has over 20 years experience across the information security industry. Shanna’s expertise has been called upon during countless data breach investigations, giving her an in-depth understanding of the security implementations that work, and the ones that don’t. Shanna continues to share her knowledge with the industry and has built and managed consulting teams of industry experts responding to all types of intrusions and breaches. 
