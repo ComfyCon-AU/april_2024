@@ -1,7 +1,7 @@
 ---
 title: "How to fight a virus with a spreadsheet"
 meta_title: ""
-description: "this is meta description"
+description: "How to fight a virus with a spreadsheet"
 date: 2020-04-11
 #image: "/images/2020_logo.png"
 categories: ["April_2020"]

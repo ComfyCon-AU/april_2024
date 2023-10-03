@@ -2,7 +2,7 @@
 title: Allen Baranov
 #email: samwilson@email.com
 image: "/images/avatar.png"
-description: this is meta description
+description: Allen Baranov
 tags: ["speaker_2020_04"]
 social:
 #  - name: github

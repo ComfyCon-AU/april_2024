@@ -2,7 +2,7 @@
 title: Shanna Daly
 #email: johndoe@email.com
 image: "/images/shanna_daly.png"
-description: this is meta description
+description: Shanna Daly
 social:
   - name: github
     icon: fa-brands fa-github

@@ -2,7 +2,7 @@
 title: Garth Schwer
 #email: samwilson@email.com
 image: "/images/avatar.png"
-description: this is meta description
+description: Garth Schwer
 social:
   - name: twitter
     icon: fa-brands fa-twitter
