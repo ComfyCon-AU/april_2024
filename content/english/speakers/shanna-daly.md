@@ -21,7 +21,7 @@ social:
     link: https://infosec.exchange/@Shanna
 
   - name: bluesky
-    icon: fa-brands fa-bluesky
+    #icon: fa-brands fa-bluesky
     link: https://bsky.app/profile/shannadaly.bsky.social
 ---
 
