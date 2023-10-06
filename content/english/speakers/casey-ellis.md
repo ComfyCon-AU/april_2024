@@ -1,7 +1,6 @@
-
 ---
 title: Casey Ellis
-image: ""
+image: "../images/speakers/casey-ellis.jpg"
 description: Casey Ellis
 social:
 
