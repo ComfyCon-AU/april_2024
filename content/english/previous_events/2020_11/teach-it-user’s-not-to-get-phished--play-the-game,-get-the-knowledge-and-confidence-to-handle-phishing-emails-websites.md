@@ -1,5 +1,5 @@
 ---
-title: Teach IT user’s not to get phished: Play the game, get the knowledge and confidence to handle phishing emails/websites
+title: "Teach IT user’s not to get phished: Play the game, get the knowledge and confidence to handle phishing emails/websites"
 meta_title: ""
 description: ComfyCon AU 2020 Summer
 date: 28/11/2020

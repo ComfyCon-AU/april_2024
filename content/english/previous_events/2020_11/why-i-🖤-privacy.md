@@ -1,5 +1,5 @@
 ---
-title: Why I 🖤 Privacy
+title: "Why I 🖤 Privacy"
 meta_title: ""
 description: ComfyCon AU 2020 Summer
 date: 28/11/2020
