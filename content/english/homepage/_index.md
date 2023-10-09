@@ -13,7 +13,7 @@ banner:
 features:
   - title: "Join us for ComfyCon AU 2024"
     image: "/images/1691663441674.jpg"
-    content: "Saturday 4th of April from 12pm (AEDT)"
+    content: "Saturday 6th of April from 12pm (AEDT)"
     bulletpoints:
       - "We aim to have a casual conference, with people talking about things that interest them and the rest of the community. You can be at home, in your pyjamas, drinking a beer, and we'll take you."
       - We welcome all Australian and New Zealand speakers (although international speakers are welcome too if you want to stay up late!) to talk about Cyber Security, and Cyber Security Adjacent topics, close to their hearts.
