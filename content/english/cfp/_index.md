@@ -13,6 +13,7 @@ ComfyCon AU 2024 CFP is currently open.
 
 ### Call for papers guidelines, hints & tips
 
+{{< tabs >}} {{< tab "ComfyCon CFP" >}}
 We welcome all Australian and New Zealand speakers (although international speakers are welcome too if you want to stay up late!) to talk about Cyber Security, and Cyber Security Adjacent topics, close to their hearts. Topics from the past include:
 - Career transitions into cyber security
 - Meditation, and other mental health issues.
@@ -37,3 +38,4 @@ All talk submissions are reviewed by the organisers before selection. There is n
 {{< /notice >}}
 
 ##### We reserve the right to approve or not approve talks.
+{{< /tab >}}
