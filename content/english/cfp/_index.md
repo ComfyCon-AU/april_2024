@@ -37,4 +37,19 @@ All talk submissions are reviewed by the organisers before selection. There is n
 
 ##### We reserve the right to approve or not approve talks.
 {{< /tab >}}
+
+{{< tab "Resources for CFPs" >}}
+Temporary list:
+* https://youtu.be/Z4BftJvs9uE?si=3t0tcne27UbPx_QE
+* https://youtu.be/_SwOxK3T1gg?si=EwoVqQMvHhT2ActD
+
+{{< /tab >}}
+
+{{< tab "Resources for presentations" >}}
+
+Temporary list:
+* https://sroberts.io/posts/building-better-security-presentations/
+
+{{< /tab >}}
+
 {{< /tabs >}}
