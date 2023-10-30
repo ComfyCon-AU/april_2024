@@ -32,11 +32,8 @@ All talk submissions are reviewed by the organisers before selection. There is n
 
 - Fields indicated by "DIVERSITY INDICATOR" help us to understand the diversity aspects of our participants. We request you answer these accurately as this helps us to track our engagement with diverse groups, but have also included "Not provided" if you choose not to. 
 - Talks about "buzzword topics" (see: NFP, blockchain, AI) will be more scrutinised. Noting the significant interest around these subjects, we want to be able to make sure we are adding value to the community.
-
-{{< notice "warning" >}}
 - Talks will not include vendor-related pitches or products or PR marketing campaigns. You will be cut off if you do this.
 - Employer logo can only appear on two slides: Introduction and Biography.
-{{< /notice >}}
 
 ##### We reserve the right to approve or not approve talks.
 {{< /tab >}}
