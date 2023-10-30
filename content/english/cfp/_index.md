@@ -24,8 +24,6 @@ We welcome all Australian and New Zealand speakers (although international speak
 
 But if you have something to talk about we'll (most likely) be happy to host you!
 
-{{< /tab >}}
-
 We aim to have a casual conference, with people talking about things that interest them and the rest of the community. You can be at home, in your pyjamas, drinking a beer, and we'll take you. 
 
 All talk submissions are reviewed by the organisers before selection. There is no double blind randomised selection, we just pick the talks that sound good. We may contact you for more details.
@@ -41,3 +39,5 @@ All talk submissions are reviewed by the organisers before selection. There is n
 {{< /notice >}}
 
 ##### We reserve the right to approve or not approve talks.
+{{< /tab >}}
+{{< /tabs >}}
