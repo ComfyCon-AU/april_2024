@@ -40,7 +40,7 @@ All talk submissions are reviewed by the organisers before selection. There is n
 
 {{< tab "Resources for CFPs" >}}
 
-1. **Let's talk on CFPs, with Lidia Giuliano (ComfyConAU 2020)**
+1. **Let's talk CFPs, with Lidia Giuliano (ComfyConAU 2020)**
    - *Description*: In this talk, Lidia Giuliano discusses the mystery of the CFP (Call for Papers) and what it should look like. She covers various aspects, including developing ideas, structuring the CFP, and understanding the differences between submitting to industry conferences and community conferences. Additionally, she discusses novel vs. new speaker talks and how knowing the specific conference and audience can assist in your submission.
    - *Video*: [Watch the talk](https://youtu.be/Z4BftJvs9uE?si=3t0tcne27UbPx_QE)
 
