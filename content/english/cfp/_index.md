@@ -1,7 +1,7 @@
 ---
 title: "Call for papers"
 meta_title: "CFP"
-description: "this is meta description"
+description: "Want to know more about the ComfyCon CFP, you're in the right place."
 image: false
 draft: false
 ---
