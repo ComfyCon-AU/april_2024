@@ -35,7 +35,7 @@ The best place to find out about the next conference is on the ComfyConAU [Twitt
 
 {{< accordion "#### How can I submit a presentation for consideration?" >}}
 
-Call for papers will run prior to each conference and open calls for papers can be found [here](/call-for-papers.html).
+Call for papers will run prior to each conference and open calls for papers can be found [here](/cfp/).
 
 {{< /accordion >}}
 
