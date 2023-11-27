@@ -1,7 +1,7 @@
 ---
 title: "How to CFP"
 meta_title: "CFP Writing"
-description: "Cubmitting a CFP? Read this."
+description: "Submitting a CFP? Read this."
 image: false
 draft: false
 ---
