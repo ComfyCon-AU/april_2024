@@ -1,3 +1,3 @@
 ---
-title: "Our speakers"
+title: "Our blog writers"
 ---

@@ -13,3 +13,4 @@ Less than 12 hours later, ComfyCon AU had a logo, an organisational team with me
 We had 1200 people sign up (though we didn’t require sign ups), from numerous countries (Australia, New Zealand, Germany, UAE, Indonesia), 103 sales of merch (with multiple items per sale), and over 16 hours of footage to cut into chunks by the end of the 2 days.
 
 And a community brought together in really difficult circumstances.
+

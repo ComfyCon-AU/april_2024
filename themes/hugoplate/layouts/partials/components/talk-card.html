@@ -21,19 +21,6 @@
       </a>
       {{ end }}
     </li>
-    <li class="mr-8 inline-block">
-      <i class="fa-regular fa-folder mr-4"></i>
-      {{ $categories:= .Params.categories }}
-      {{ range $i,$p:= $categories }}
-        <a
-          href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}/"
-          class="ms-1"
-          >{{ . | humanize }}{{ if ne $i (sub (len $categories) 1) }}
-            {{ ", " }}
-          {{ end }}
-        </a>
-      {{ end }}
-    </li>
   </ul>
   <p class="mb-6">{{ .Summary }}</p>
   <a class="btn btn-outline-primary btn-sm" href="{{ .RelPermalink }}">
