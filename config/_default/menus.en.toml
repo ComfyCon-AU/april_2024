@@ -15,6 +15,19 @@ weight = 2
 name = "CFP"
 url = "cfp/"
 weight = 3
+hasChildren = true
+
+[[main]]
+parent = "CFP"
+weight = 1
+name = "CFP writing"
+url = "cfp/cfp_writing/"
+
+[[main]]
+parent = "CFP"
+weight = 2
+name = "Speaker resources"
+url = "cfp/speaker_resources/"
 
 [[main]]
 weight = 4
