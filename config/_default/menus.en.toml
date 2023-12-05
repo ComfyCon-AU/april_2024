@@ -20,12 +20,18 @@ hasChildren = true
 [[main]]
 parent = "CFP"
 weight = 1
+name = "ComfyConAU CFP"
+url = "cfp/"
+
+[[main]]
+parent = "CFP"
+weight = 2
 name = "CFP writing"
 url = "cfp/cfp_writing/"
 
 [[main]]
 parent = "CFP"
-weight = 2
+weight = 3
 name = "Speaker resources"
 url = "cfp/speaker_resources/"
 
