@@ -1,5 +1,5 @@
 ---
-title: Homing pigeons, teapots and pegs: a beginner's guide to satirical standards, April Fool's Day RFCs
+title: "Homing pigeons, teapots and pegs: a beginner's guide to satirical standards, April Fool's Day RFCs"
 meta_title: ""
 description: ComfyCon AU 2022 Winter
 date: 2022-09-04 00:00:00

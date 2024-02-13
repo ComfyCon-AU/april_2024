@@ -1,5 +1,5 @@
 ---
-title: Cyborg Security: The implications of human IoT devices
+title: 'Cyborg Security: The implications of human IoT devices'
 meta_title: ""
 description: ComfyCon AU 2022 Summer
 date: 20/11/2022

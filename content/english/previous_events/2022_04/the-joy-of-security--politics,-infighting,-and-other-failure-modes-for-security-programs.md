@@ -1,5 +1,5 @@
 ---
-title: The Joy of Security: Politics, infighting, and other failure modes for security programs
+title: 'The Joy of Security: Politics, infighting, and other failure modes for security programs'
 meta_title: ""
 description: ComfyCon AU 2022 Winter
 date: 2022-09-04 00:00:00

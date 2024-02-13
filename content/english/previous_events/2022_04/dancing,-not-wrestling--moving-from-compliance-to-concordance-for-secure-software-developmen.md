@@ -1,5 +1,5 @@
 ---
-title: Dancing, not Wrestling: Moving from Compliance to Concordance for Secure Software Developmen
+title: 'Dancing, not Wrestling: Moving from Compliance to Concordance for Secure Software Development'
 meta_title: ""
 description: ComfyCon AU 2022 Winter
 date: 2022-09-04 00:00:00

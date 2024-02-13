@@ -1,5 +1,5 @@
 ---
-title: Deus Ex Promised Me Cool Augments, and All I Got Was Dystopia: When Do I Get My Robot Legs, and Will They Get Hacked?
+title: 'Deus Ex Promised Me Cool Augments, and All I Got Was Dystopia: When Do I Get My Robot Legs, and Will They Get Hacked?'
 meta_title: ""
 description: ComfyCon AU 2022 Winter
 date: 2022-09-04 00:00:00

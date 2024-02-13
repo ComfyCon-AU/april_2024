@@ -1,5 +1,5 @@
 ---
-title: "MY WHY". How Fraud and Identity Theft led me into Cyber Defence and Operation
+title: '"MY WHY". How Fraud and Identity Theft led me into Cyber Defence and Operation'
 meta_title: ""
 description: ComfyCon AU 2022 Winter
 date: 2022-09-04 00:00:00

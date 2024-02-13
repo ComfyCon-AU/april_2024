@@ -1,5 +1,5 @@
 ---
-title: Hack your (people) networks: Applying Red and Blue teaming to your career
+title: 'Hack your (people) networks: Applying Red and Blue teaming to your career'
 meta_title: ""
 description: ComfyCon AU 2022 Summer
 date: 20/11/2022

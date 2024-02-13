@@ -1,5 +1,5 @@
 ---
-title: Career Transition: A Give and Take Love Story
+title: 'Career Transition: A Give and Take Love Story'
 meta_title: ""
 description: ComfyCon AU 2022 Winter
 date: 2022-09-04 00:00:00

@@ -1,5 +1,5 @@
 ---
-title: Defence against the Dark Arts: Learning the difference between a Security Strategy and a Plan
+title: 'Defence against the Dark Arts: Learning the difference between a Security Strategy and a Plan'
 meta_title: ""
 description: ComfyCon AU 2022 Winter
 date: 2022-09-04 00:00:00
