@@ -1,17 +1,13 @@
 ---
 # Banner
 banner:
-  title: "We are back in 2024"
+  title: "Join us for ComfyCon AU 2024"
   content: <div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countdown/4480727" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="Countdown to ComfyCon AU 2024"></iframe></div><br><br>
   image: false
-  button:
-    enable: true
-    label: "Submit to the CFP"
-    link: "https://t.co/mMLokmngV5"
 
 # Features
 features:
-  - title: "Join us for ComfyCon AU 2024"
+  - title: "We are back in 2024" "Join us for ComfyCon AU 2024"
     image: "/images/1691663441674.jpg"
     content: "Saturday 6th of April from 12pm (AEDT)"
     bulletpoints:
@@ -35,6 +31,4 @@ features:
       enable: true
       label: "See our past events"
       link: "previous_events"
-
-
 ---
