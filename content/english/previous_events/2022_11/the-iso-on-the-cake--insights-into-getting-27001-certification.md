@@ -1,5 +1,5 @@
 ---
-title: The ISO on the cake: insights into getting 27001 certification
+title: 'The ISO on the cake: insights into getting 27001 certification'
 meta_title: ""
 description: ComfyCon AU 2022 Summer
 date: 20/11/2022
