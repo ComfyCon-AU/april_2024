@@ -14,7 +14,8 @@ We have a lot of amazing speakers from across Australia and New Zealand (and on 
 
 ##### Comfy Couch Potatoes
 
-![](comfy_count_potatoes.jpeg)
+![](/images/comfy_count_potatoes.jpeg)
+
 The crazy ideas and overall running of the event is conducted by [Iain Dickson](https://twitter.com/wan0net) and [Shanna Daly](https://twitter.com/fancy_4n6) with a lot of support from [Bryan Nolen](https://twitter.com/BryanNolen) and [hoodiePony](https://twitter.com/hoodiePony) for audio, visual, run sheets and general cat herding for each conference.
 
 We also recognise the contributions of Andrea Lewis, an original Comfy Couch Potato and brain child as well as the designer of our much loved ComfyConAU logo and potato.
