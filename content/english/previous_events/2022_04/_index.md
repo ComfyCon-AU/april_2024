@@ -1,5 +1,6 @@
 ---
 title: "ComfyCon AU, April 2022"
 meta_title: ""
-description: "Cyber without leaving your isolation tank"
+description: "The new normal: Life as we know it"
+image: "/images/winter_2022.jpeg"
 ---
