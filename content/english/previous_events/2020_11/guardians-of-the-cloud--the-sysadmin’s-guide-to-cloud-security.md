@@ -4,7 +4,7 @@ meta_title: ""
 description: ComfyCon AU 2020 Summer
 date: 28/11/2020
 categories: ["ComfyCon AU 2020 Summer"]
-speakers: Bronwyn Mercer
+speaker: Bronwyn Mercer
 
 draft: false
 ---
