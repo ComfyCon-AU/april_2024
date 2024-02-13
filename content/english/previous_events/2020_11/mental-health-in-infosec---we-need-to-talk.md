@@ -15,4 +15,3 @@ Just like physical health, poor mental health is a disabling condition that affe
 
 We need to have a conversation within the Information Security Industry of how we can identify, support and help each other through these ups and downs; but also identify what we can practically do to support each other at the community level.
 
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

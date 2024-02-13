@@ -14,4 +14,3 @@ Being able to accurately determine the original timestamps of the contents withi
 
 Josh will walk you through new research that looks at what forensic artefacts you can extract from a compressed file, what timestamps are useful and reliable, along with what tools will provide you with the answers you need to analyse compressed file forensically.
 
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -14,4 +14,3 @@ Every organisation's infrastructure has its shadow, the unofficial system of ser
 
 This talk is a space for both confession and redemption: in it, we will delve into the psychology that leads to the development of shadow IT, the opportunities that can grow out of this corporate underground, and how to get these systems out of the shadows and into the light. Developers and security professionals alike will emerge from this talk with the tools they need to build the systems they actually want.
 
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

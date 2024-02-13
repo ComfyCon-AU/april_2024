@@ -16,4 +16,3 @@ Cyber-security challenges are not limited to technical reasons; some challenges 
 
 So, is it all bad news? No, there are opportunities for the community to help, 2 of which I will briefly explore: • Open source community – Harness the talent within the open source community to address fundamental resource limitations that exist for small businesses. • Better tooling – A pilot survey is currently underway that aims to better understand the use of IT by small businesses, (with details on how to participate) which can facilitate better solutions. (Note: Some of these information draws from my published academic articles and talk I gave at AISA Cybercon in November 2021. Further details available upon request.)
 
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

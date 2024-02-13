@@ -13,4 +13,3 @@ MITRE Shield (https://shield.mitre.org/) is a recently published active defence 
 - Walk the audience through steps to analyze defence gaps against the ATT&CK techniques and identify active defence mitigations
 - Discuss how to deploy and operate active defence
 
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

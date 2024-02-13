@@ -14,4 +14,3 @@ But not many people know what it is, and so I will present what we do know about
 
 Also, does being PCI Compliant make you safe? You may be surprised at the answer.
 
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

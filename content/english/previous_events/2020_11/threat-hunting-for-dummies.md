@@ -10,4 +10,3 @@ draft: false
 ---
 Hilt gives an introduction to threat hunting and how resource constrained organizations can boot strap a threat hunting program using open source tools.
 
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

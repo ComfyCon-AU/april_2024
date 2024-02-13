@@ -12,4 +12,3 @@ In this talk, I go through the vulnerabilities I discovered in a Zapier service 
 
 I'll present the talk in a "story" style, essentially putting the audience in my shoes.
 
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

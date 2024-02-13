@@ -18,4 +18,3 @@ Cybersecurity is a well sought-after industry. So, you studied hard at Universit
 
 Participants will feel the same rush of inspiration after watching this presentation like they do from a TED talk at 2AM in bed. Participants will be ready to tackle the world after receiving hard-hitting and effective advice that is rarely voiced.
 
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

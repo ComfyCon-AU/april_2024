@@ -13,4 +13,3 @@ Sitting right alongside the standards that define the fundamental building block
 
 This guide gives a brief look into the clever, humorous and topical RFCs that exist in the wild, where they come from, how to find them and answer the age old question - why do people keep talking about teapots?
 
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -26,4 +26,3 @@ Really, my neighbors just wouldn't be OK with me putting up giant antennas - con
 
 I don't know how to get licensed and I really don't want to - how to get licensed
 
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -18,4 +18,4 @@ There is a strong co-relationship between the user’s knowledge and their self-
 
 This talk will discuss how IT users can educate themselves in learning different kinds of phishing detection and identification knowledge to buildup their confidence level while playing a game-based anti-phishing learning tool. It will be fun to play, enjoyable, convenient, enhance people’s creativity and keep them engaged. Overall, this game-based anti-phishing learning tool will make them understand different kinds of phishing techniques and how to recognise and be protected in the cyber-space. It will simply give awareness in an interactive way differently than the reading materials!
 
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+

@@ -14,4 +14,3 @@ Security and compliance can often be the laggards of IT when it comes to the Clo
 
 This is a story of how the need for speed that is creating such friction between engineering and security can prove to be it's salvation, how the cultural transformation underlying DevSecOps can be truly achieved, and how those teams that are constantly pushing the boundaries are actually security's greatest allies.
 
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

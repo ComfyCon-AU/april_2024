@@ -18,4 +18,3 @@ This talk will cover:
 
 If I get time between now and comfycon, I plan to have a wire frame of at least a document and a todo list for the newly emancipated.
 
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
