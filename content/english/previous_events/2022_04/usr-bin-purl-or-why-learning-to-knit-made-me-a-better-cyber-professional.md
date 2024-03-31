@@ -1,5 +1,5 @@
 ---
-title: "#!/usr/bin/purl or why learning to knit made me a better Cyber professional"
+title: "/usr/bin/purl or why learning to knit made me a better Cyber professional"
 meta_title: ""
 description: ComfyCon AU 2022 Winter
 date: 2022-09-04 00:00:00
