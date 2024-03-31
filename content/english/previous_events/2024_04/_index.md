@@ -26,8 +26,6 @@ cover: "/images/winter_2024.jpeg"
 | 18:35                     | To Insert, Swipe or Touch: A Credit Card Dilemma | 00:20 | Chloe Pang |
 | 19:00                     | Biohacking wellness: physical and mental | 00:30 | Danarchi |
 | 19:35                     | Close out and thank you | 00:10 | icd + shanna |
-| 19:50                     |  | 05:40 |  
-|                           |  |  | 
 
 # Sunday 7th April
 
@@ -49,4 +47,3 @@ cover: "/images/winter_2024.jpeg"
 | 18:30                   | Why Prefetch Artefacts are Like Ducks | 00:30 | Claire Carpenter |
 | 19:05                   | Hacking Humanity: Ethical Strategies for Influence and Connection | 00:40 | Jill Taylor |
 | 19:50                   | Close out and thank you | 00:10 | icd + shanna |
-| 20:05                   |  | 06:00 |
