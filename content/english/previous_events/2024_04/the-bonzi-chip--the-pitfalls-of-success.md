@@ -5,7 +5,7 @@ description: ComfyCon AU 2024 Winter
 date: 06/04/2024
 categories: ["ComfyCon AU 2024 Winter"]
 speaker: swarley
-speaker_2: kronicd
+speaker2: kronicd
 
 draft: false
 ---
