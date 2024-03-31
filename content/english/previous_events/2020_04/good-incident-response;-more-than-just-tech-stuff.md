@@ -4,7 +4,7 @@ meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 2020-04-11
 categories: ["ComfyCon AU 2020 Winter"]
-speaker: Ryan McLaren
+speaker: Ryan Mclaren
 draft: false
 ---
 Looking back at some of of the previous Incident Response operations he led, Ryan will give an overview into some of the critical functions and skills required of Incident Response personnel. Hint, its not always technical expertise that makes for great Incident Response (although that's kind of important too!) - so that's what this presentation will focus on, the non-technical side of IR.
