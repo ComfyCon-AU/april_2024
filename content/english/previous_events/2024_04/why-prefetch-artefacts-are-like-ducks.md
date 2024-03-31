@@ -4,7 +4,7 @@ meta_title: ""
 description: ComfyCon AU 2024 Winter
 date: 2024-04-06 00:00:00
 categories: ["ComfyCon AU 2024 Winter"]
-speakers: Claire Carpenter
+speaker: Claire Carpenter
 
 draft: false
 ---
