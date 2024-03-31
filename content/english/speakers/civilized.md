@@ -1,8 +1,8 @@
 
 ---
-title: Steph
+title: civilized
 image: ""
-description: Steph
+description: civilized
 social:
 
   - name: twitter

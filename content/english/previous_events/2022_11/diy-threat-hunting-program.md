@@ -4,7 +4,7 @@ meta_title: ""
 description: ComfyCon AU 2022 Summer
 date: 20/11/2022
 categories: ["ComfyCon AU 2022 Summer"]
-speaker: Steph
+speaker: civilized
 
 draft: false
 ---
