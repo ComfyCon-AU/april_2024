@@ -42,7 +42,7 @@ image: "images/winter_2024.jpg"
 | 16:30                   | ComfyCon Intermission | 00:10 | thequietlife |
 | 16:45                   | The Bonzi Chip: The Pitfalls of Success | 00:30 | swarley and kronicd |
 | 17:20                   | Dinner Break (30 minutes) | 00:30 |  |
-| 17:55                   | Retrospect Wrap up | 00:30 | icd+ryan |
+| 17:55                   | Retrospect Wrap up | 00:30 | icd + shanna + Ryan Mclaren |
 | 18:30                   | Why Prefetch Artefacts are Like Ducks | 00:30 | Claire Carpenter |
 | 19:05                   | Hacking Humanity: Ethical Strategies for Influence and Connection | 00:40 | Jill Taylor |
 | 19:50                   | Close out and thank you | 00:10 | icd + shanna |
