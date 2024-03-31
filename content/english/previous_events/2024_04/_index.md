@@ -6,7 +6,7 @@ youtube_playlist: "PLg-aMs82kVNoFqZkmSdL8f5Q1ybtrdkGi"
 cover: "/images/winter_2024.jpeg"
 ---
 
-| Saturday - 6th April 2024 |
+| Saturday - 6th April 2024 | | | |
 | ------------------------- |
 | Time (UTC+10)             | Talk | Length | Speaker |
 | 12:00                     | Welcome to #ComfyConAU 2024 | 00:10 | icd |
@@ -29,7 +29,7 @@ cover: "/images/winter_2024.jpeg"
 | 19:50                     |  | 05:40 |  |
 |                           |  |  |
 
-| Sunday - 7th April 2024 |
+| Sunday - 7th April 2024 | | | |
 | ----------------------- |
 | Time (UTC+10)           | Talk | Length | Speaker |
 | 12:00                   | Welcome to #ComfyConAU 2024 | 00:10 | icd |
