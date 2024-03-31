@@ -4,7 +4,8 @@ meta_title: ""
 description: ComfyCon AU 2024 Winter
 date: 06/04/2024
 categories: ["ComfyCon AU 2024 Winter"]
-speaker: swarley and kronicd
+speaker: swarley
+speaker_2: kronicd
 
 draft: false
 ---
