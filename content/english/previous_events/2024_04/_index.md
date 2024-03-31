@@ -9,9 +9,9 @@ cover: "/images/winter_2024.jpeg"
 # Saturday 6th April
 | Time (UTC+10)             | Talk | Length | Speaker |
 |---------------------------|------|--------|---------|
-| 12:00                     | Welcome to #ComfyConAU 2024 | 00:10 | icd |
+| 12:00                     | Welcome to #ComfyConAU 2024 | 00:10 | icd + shanna |
 | 12:15                     | Profit from Misery | 00:20 | Aaron |
-| 12:40                     | Retrospect Labs Competition | 00:10 | icd+ryan |
+| 12:40                     | Retrospect Labs Competition | 00:10 | icd + shanna |
 | 12:55                     | Influencing Security with no authority - Lessons from the field | 00:30 | Sam Hitchiner |
 | 13:30                     | Supply Chain Security: Eating SLSA for Breakfast | 00:20 | Ben Gittins |
 | 13:55                     | Thinking of starting your own company? Do it! But maybe listen to this first | 00:20 | Ryan |
@@ -25,7 +25,7 @@ cover: "/images/winter_2024.jpeg"
 | 18:00                     | GRC is for everyone: demystifying the what, where and why of Governance, Risk & Compliance in Australia | 00:30 | Cam La |
 | 18:35                     | To Insert, Swipe or Touch: A Credit Card Dilemma | 00:20 | Chloe Pang |
 | 19:00                     | Biohacking wellness: physical and mental | 00:30 | Danarchi |
-| 19:35                     | Close out and thank you | 00:10 | ComfyConAU |
+| 19:35                     | Close out and thank you | 00:10 | icd + shanna |
 | 19:50                     |  | 05:40 |  
 |                           |  |  | 
 
@@ -33,7 +33,7 @@ cover: "/images/winter_2024.jpeg"
 
 | Time (UTC+10)           | Talk | Length | Speaker |
 |-------------------------|------|--------|---------|
-| 12:00                   | Welcome to #ComfyConAU 2024 | 00:10 | icd |
+| 12:00                   | Welcome to #ComfyConAU 2024 | 00:10 | icd + shanna |
 | 12:15                   | AppSec, what do you even do? Preliminary observations & insights from a global survey of practitioners. | 00:30 | hoodiePony |
 | 12:50                   | Securing layoffs without being an a\*\*hole | 00:30 | Kane |
 | 13:25                   | Backing up your tech career: building redundancy in the face of redundancy | 00:30 | Cairo |
@@ -48,5 +48,5 @@ cover: "/images/winter_2024.jpeg"
 | 17:55                   | Retrospect Wrap up | 00:30 | icd+ryan |
 | 18:30                   | Why Prefetch Artefacts are Like Ducks | 00:30 | Claire Carpenter |
 | 19:05                   | Hacking Humanity: Ethical Strategies for Influence and Connection | 00:40 | Jill Taylor |
-| 19:50                   | Close out and thank you | 00:10 | ComfyConAU |
+| 19:50                   | Close out and thank you | 00:10 | icd + shanna |
 | 20:05                   |  | 06:00 |
