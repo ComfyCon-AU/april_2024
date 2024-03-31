@@ -12,9 +12,14 @@ url = "about/"
 weight = 2
 
 [[main]]
+name = "2024 Schedule"
+url = "previous_events/2024_04"
+weight = 3
+
+[[main]]
 name = "CFP"
 url = "cfp/"
-weight = 3
+weight = 4
 hasChildren = true
 
 [[main]]
@@ -36,7 +41,7 @@ name = "Speaker resources"
 url = "cfp/speaker_resources/"
 
 [[main]]
-weight = 4
+weight = 5
 name = "Previous Events"
 url = "previous_events/"
 hasChildren = true
