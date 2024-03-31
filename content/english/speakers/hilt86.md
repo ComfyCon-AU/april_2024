@@ -1,8 +1,8 @@
 
 ---
-title: hilt86 
+title: hilt86
 image: ""
-description: hilt86 
+description: hilt86
 social:
 
   - name: twitter
