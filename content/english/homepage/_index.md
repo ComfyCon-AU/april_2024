@@ -2,12 +2,13 @@
 # Banner
 banner:
   title: "Join us for ComfyCon AU 2024"
-  content: <div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countdown/4480727" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="Countdown to ComfyCon AU 2024"></iframe></div><br><br>
+  content: <div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countdown/4480727" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="Countdown to ComfyCon AU 2024"></iframe></div><br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=tWl8ie6WRbbv98LM&amp;list=PLg-aMs82kVNoFqZkmSdL8f5Q1ybtrdkGi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
   image: false
 
 # Features
 features:
-  - title: "We are back in 2024" "Join us for ComfyCon AU 2024"
+  - title: "We are back in 2024"
     image: "/images/1691663441674.jpg"
     content: "Saturday 6th of April from 12pm (AEDT)"
     bulletpoints:
