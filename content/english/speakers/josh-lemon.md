@@ -1,8 +1,8 @@
 
 ---
-title: Josh Lemon 
+title: Josh Lemon
 image: ""
-description: Josh Lemon 
+description: Josh Lemon
 social:
 
   - name: twitter

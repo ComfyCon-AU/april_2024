@@ -5,7 +5,7 @@ description: ComfyCon AU 2022 Summer
 date: 20/11/2022
 categories: ["ComfyCon AU 2022 Summer"]
 speaker: Prescott Pym
-speaker_2: Bianca Binns  
+speaker2: Bianca Binns  
 draft: false
 ---
 This talk will bring familiar elements of approaches to Cyber Security, and attempt to view through the lens of your professional networks. Let’s face it, many Comfycon attendees are quite happy to regress into introversion throughout lockdowns, this talk is designed to get you thinking, up off the couch and developing your social skills in a new colour!

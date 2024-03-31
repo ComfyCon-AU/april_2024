@@ -1,8 +1,8 @@
 
 ---
-title: Lidia 
+title: Lidia
 image: ""
-description: Lidia 
+description: Lidia
 social:
 
   - name: twitter

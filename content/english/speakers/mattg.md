@@ -1,8 +1,8 @@
 
 ---
-title: MattG 
+title: MattG
 image: ""
-description: MattG 
+description: MattG
 social:
 
   - name: twitter

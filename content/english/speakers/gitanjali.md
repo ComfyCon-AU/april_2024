@@ -1,8 +1,8 @@
 
 ---
-title: Gitanjali 
+title: Gitanjali
 image: ""
-description: Gitanjali 
+description: Gitanjali
 social:
 
   - name: twitter
