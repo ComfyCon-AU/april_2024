@@ -2,7 +2,6 @@
 title: "ComfyCon AU, April 2024"
 meta_title: ""
 description: "Everyone's a hero in their own way"
-youtube_playlist: "PLg-aMs82kVNoFqZkmSdL8f5Q1ybtrdkGi"
 image: "images/winter_2024.jpg"
 ---
 
