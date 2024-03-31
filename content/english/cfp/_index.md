@@ -5,12 +5,12 @@ description: "Want to know more about the ComfyCon CFP, you're in the right plac
 image: false
 draft: false
 ---
-{{< button label="Submit here" link="https://t.co/mMLokmngV5" style="solid" target="_blank" >}}
+<!--{{< button label="Submit here" link="https://t.co/mMLokmngV5" style="solid" target="_blank" >}}
 
 ComfyCon AU 2024 CFP is currently open.
 
 <div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countdown/4480849" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="ComfyCon AU 2024 CFP closes in ..."></iframe></div>
-
+-->
 ### ComfyCon call for papers guidelines, hints & tips
 
 We welcome all Australian and New Zealand speakers (although international speakers are welcome too if you want to stay up late!) to talk about Cyber Security, and Cyber Security Adjacent topics, close to their hearts. Topics from the past include:
