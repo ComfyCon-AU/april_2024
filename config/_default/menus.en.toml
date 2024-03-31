@@ -54,7 +54,7 @@ url = "previous_events/2020_04/"
 
 [[main]]
 parent = "Previous Events"
-#weight = 2
+weight = 2
 name = "November 2020"
 url = "previous_events/2020_11"
 
