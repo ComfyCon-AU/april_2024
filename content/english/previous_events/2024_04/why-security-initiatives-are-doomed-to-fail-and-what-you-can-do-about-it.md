@@ -18,5 +18,3 @@ You'll learn:
 - How architecting the business is more important than architecting the solution.
 - Why security doesn't seem the same benefits from agile way of working.
 - How to plan your work to deliver the best possible outcome for your Herculean effort.
-
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

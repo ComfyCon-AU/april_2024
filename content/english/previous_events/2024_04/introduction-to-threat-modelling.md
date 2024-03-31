@@ -20,5 +20,3 @@ and measuring if the controls work - at least according to models such as Shosta
 At the point penetration testers are engaged, we mostly care about the first two - what is our target, and what can go wrong. Ultimately, our goals are to make these bad things happen, and find bugs before the bad guys(TM) do.
 
 This talk is not intended to be the implementation of STRIDE, TRIKE, PASTA or VAST. If you know what these are, this probably isn't the talk for you.
-
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

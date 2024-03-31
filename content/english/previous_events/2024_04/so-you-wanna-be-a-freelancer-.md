@@ -13,5 +13,3 @@ For the hordes of people trying to break into the cybersecurity industry, or the
 7 years ago I followed that call, dove off the side of my employer's ship into the cold unforgiving abyss of the open market, and have been struggling to keep my head above water ever since. It has been a rough journey, almost nothing like I envisioned, and I nearly drowned a couple of times. Almost every lesson has been learned the hard way, and yet somehow I have survived to tell this tale.
 
 In this talk I will tell the story of my journey as an independent cybersecurity consultant. I will talk about the ups and downs, the challenges and the easy wins, the hard learned lessons and moments of inspiration. At the end of it all, hopefully I will have painted very realistic picture for anyone who aspires to one day follow along the same path.
-
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

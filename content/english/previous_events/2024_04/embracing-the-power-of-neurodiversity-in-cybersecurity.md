@@ -15,6 +15,3 @@ Neurodiversity encompasses a range of neurological variations, and rather than p
 However, it is important to acknowledge that the one-size-fits-all approach to management and recruitment, with a lack of accommodations and rigid structures, can create significant barriers and contribute to negative experiences for neurodivergent individuals. To address these challenges, organisations need to reimagine and redesign how they support their workforce more broadly. By prioritising support and understanding, organisations can attract and retain all talent regardless of their neurodiversity, and facilitate their professional growth and success in the cybersecurity field. 
 
 By championing diversity and empowering individuals, we can propel our organisations to new heights in the pursuit of cybersecurity excellence.
-
-
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

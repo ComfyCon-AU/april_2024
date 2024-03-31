@@ -51,5 +51,3 @@ Key Takeaways:
 
 
 7. Personal Empowerment and Societal Impact: Encouragement for attendees to use their enhanced social engineering skills for personal empowerment, community betterment, and promoting ethical standards in their circles of influence.
-
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

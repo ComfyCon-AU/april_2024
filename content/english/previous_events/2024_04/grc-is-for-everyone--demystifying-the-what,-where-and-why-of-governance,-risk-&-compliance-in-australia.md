@@ -14,5 +14,3 @@ GRC is more than just checklists and tick boxes. It's a commom language based on
 
 This talk will (re-)introduce: what GRC is; common risk frameworks and standards you may encounter in your travels; some of the mechanisms, laws and agencies in Australia; and how these work together to encourage organisations to continously consider, adhere and improve their security.
 
-
-<iframe width="560" height="315" src="None" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
