@@ -6,9 +6,9 @@ youtube_playlist: "PLg-aMs82kVNoFqZkmSdL8f5Q1ybtrdkGi"
 cover: "/images/winter_2024.jpeg"
 ---
 
-| Saturday - 6th April 2024 |  |  |  |
-| ------------------------- |  |  |  |
+# Saturday 6th April
 | Time (UTC+10)             | Talk | Length | Speaker |
+|---------------------------|------|--------|---------|
 | 12:00                     | Welcome to #ComfyConAU 2024 | 00:10 | icd |
 | 12:15                     | Profit from Misery | 00:20 | Aaron |
 | 12:40                     | Retrospect Labs Competition | 00:10 | icd+ryan |
@@ -26,12 +26,13 @@ cover: "/images/winter_2024.jpeg"
 | 18:35                     | To Insert, Swipe or Touch: A Credit Card Dilemma | 00:20 | Chloe Pang |
 | 19:00                     | Biohacking wellness: physical and mental | 00:30 | Danarchi |
 | 19:35                     | Close out and thank you | 00:10 | ComfyConAU |
-| 19:50                     |  | 05:40 |  |
-|                           |  |  |  |
+| 19:50                     |  | 05:40 |  
+|                           |  |  | 
 
-| Sunday - 7th April 2024 |  |  |  |
-| ----------------------- |  |  |  |
+# Sunday 7th April
+
 | Time (UTC+10)           | Talk | Length | Speaker |
+|-------------------------|------|--------|---------|
 | 12:00                   | Welcome to #ComfyConAU 2024 | 00:10 | icd |
 | 12:15                   | AppSec, what do you even do? Preliminary observations & insights from a global survey of practitioners. | 00:30 | hoodiePony |
 | 12:50                   | Securing layoffs without being an a\*\*hole | 00:30 | Kane |
