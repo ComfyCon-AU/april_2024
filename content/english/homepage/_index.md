@@ -28,8 +28,4 @@ features:
       - "2020 sucked so much we did it again: **Don't get fried, stay inside**."
       - "We came back bigger than ever in April 2022: **The new normal**."
       - "Just when we swore we'd never do it in summer again: **Better together**."
-    button:
-      enable: true
-      label: "See our past events"
-      link: "previous_events"
 ---
