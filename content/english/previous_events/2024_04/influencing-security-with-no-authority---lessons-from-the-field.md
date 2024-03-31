@@ -2,7 +2,7 @@
 title: Influencing Security with no authority - Lessons from the field
 meta_title: ""
 description: ComfyCon AU 2024 Winter
-date: 2024-04-06 00:00:00
+date: 06/04/2024
 categories: ["ComfyCon AU 2024 Winter"]
 speaker: Sam Hitchiner
 

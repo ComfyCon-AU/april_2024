@@ -2,7 +2,7 @@
 title: "Know your Avatar: mods, energy drinks and the vibrant, contested world of online gaming"
 meta_title: ""
 description: ComfyCon AU 2024 Winter
-date: 2024-04-06 00:00:00
+date: 06/04/2024
 categories: ["ComfyCon AU 2024 Winter"]
 speaker: Steven Coomber
 

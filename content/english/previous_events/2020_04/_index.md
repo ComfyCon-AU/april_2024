@@ -2,7 +2,7 @@
 title: "ComfyCon AU, April 2020"
 meta_title: ""
 description: "Cyber without leaving your isolation tank"
-cover: "/images/winter_2020.png"
+cover: "winter_2020.png"
 ---
 In the beginning, there was a tired, redheaded “cyber guy”. He’d just gotten off over 24 hours of flights with his partner, cutting their holiday short and returning with their tail between their legs to their home country before all intermediate countries closed their borders.
 
