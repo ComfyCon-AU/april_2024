@@ -6,7 +6,7 @@ image: "images/winter_2024.jpg"
 ---
 
 # Saturday 6th April
-| Time (UTC+10)             | Talk | Length | Speaker |
+| Time (UTC+11)             | Talk | Length | Speaker |
 |---------------------------|------|--------|---------|
 | 12:00                     | Welcome to #ComfyConAU 2024 | 00:10 | icd + shanna |
 | 12:15                     | Profit from Misery | 00:20 | Aaron |
