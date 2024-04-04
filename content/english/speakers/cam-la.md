@@ -11,7 +11,8 @@ social:
 
 ---
 
-Cam La is a security consultant who enjoys tea, spends way too much time reading, and deconstructs systems in her spare time.
-She has spent over 10 years enjoying the view from ladders, cherry pickers, and building rooftops - engineering, designing and deploying sensors, vision and tech in places they really weren't meant to go.
+Cam is a tinkerer, dabbler and explorer of all thing technology. An engineer at heart, she always looks at how things work, how things break and how things can be made better - whether it be in the physical or digital world. 
 
-Making the jump to cyber, Cam now works in Forensic Technology across DFIR, investigations, eDiscovery and compliance for Clayton Utz.
+With a constant thirst to learn and understand - Cam picks up skills, stories and careers like catching pokémon. (One of which happens to be GRC)
+
+Not content with knowing, Cam continues to support efforts to teach, mentor and inspire the next generation and give back to the community.
