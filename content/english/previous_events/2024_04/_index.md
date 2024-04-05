@@ -31,7 +31,7 @@ image: "images/winter_2024.jpg"
 | Time (UTC+10)           | Talk | Length | Speaker |
 |-------------------------|------|--------|---------|
 | 12:00                   | Welcome to #ComfyConAU 2024 | 00:10 | icd + shanna |
-| 12:15                   | [AppSec, what do you even do? Preliminary observations & insights from a global survey of practitioners.](https://au.comfycon.rocks/previous_events/2024_04/appsec-what-do-you-even-do--preliminary-observations--insights-from-a-global-survey-of-practitioners./) | 00:30 | hoodiePony |
+| 12:15                   | 2013-2023 in Cyber: Why are you still banging your head against a brick wall? | 00:30 | icd |
 | 12:50                   | [Securing layoffs without being an a\*\*hole](https://au.comfycon.rocks/previous_events/2024_04/securing-layoffs-without-being-an-a--hole/) | 00:30 | Kane Narraway|
 | 13:25                   | [Backing up your tech career: building redundancy in the face of redundancy](https://au.comfycon.rocks/previous_events/2024_04/backing-up-your-tech-career--building-redundancy-in-the-face-of-redundancy/) | 00:30 | Cairo |
 | 14:00                   | [Green Fields for a Green Analyst: My first 90 days in cyber, with no experience and no security program](https://au.comfycon.rocks/previous_events/2024_04/green-fields-for-a-green-analyst--my-first-90-days-in-cyber-with-no-experience-and-no-security-program/) | 00:30 | RedPandaDoge |
