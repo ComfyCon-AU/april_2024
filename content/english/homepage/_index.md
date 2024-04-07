@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Join us for ComfyCon AU 2024"
-  content: <div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countdown/4480727" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="Countdown to ComfyCon AU 2024"></iframe></div><br><br><div class="mx-auto" style="text-align:center; margin:auto; display:block;"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=tWl8ie6WRbbv98LM&amp;list=PLg-aMs82kVNoFqZkmSdL8f5Q1ybtrdkGi" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="margin:auto"></iframe></div><br /> <br /> Join us at https://discord.gg/FCcbX866CN
+  content: <div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countdown/4480727" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="Countdown to ComfyCon AU 2024"></iframe></div><br><br><div class="mx-auto" style="text-align:center; margin:auto; display:block;"><iframe width="560" height="315" src="https://www.youtube.com/embed/JFVsO34LV7o?si=oZI9OBs1nwJcnq-B" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="margin:auto"></iframe></div><br /> <br /> Join us at https://discord.gg/FCcbX866CN
   image: "/images/discord.png"
 
 # Features
