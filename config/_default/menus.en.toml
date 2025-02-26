@@ -22,11 +22,11 @@ url = "cfp/"
 weight = 4
 hasChildren = true
 
-[[main]]
-parent = "CFP"
-weight = 1
-name = "ComfyConAU CFP"
-url = "cfp/"
+#[[main]]
+#parent = "CFP"
+#weight = 1
+#name = "ComfyConAU CFP"
+#url = "cfp/"
 
 [[main]]
 parent = "CFP"
@@ -69,6 +69,12 @@ parent = "Previous Events"
 weight = 4
 name = "November 2022"
 url = "previous_events/2022_11/"
+
+[[main]]
+parent = "Previous Events"
+weight = 5
+name = "April 2024"
+url = "previous_events/2024_04/"
 
 # footer menu
 [[footer]]
