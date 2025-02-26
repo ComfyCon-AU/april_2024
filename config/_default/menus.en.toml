@@ -11,10 +11,10 @@ name = "About"
 url = "about/"
 weight = 2
 
-[[main]]
-name = "2024 Schedule"
-url = "previous_events/2024_04"
-weight = 3
+#[[main]]
+#name = "2024 Schedule"
+#url = "previous_events/2024_04"
+#weight = 3
 
 [[main]]
 name = "CFP"

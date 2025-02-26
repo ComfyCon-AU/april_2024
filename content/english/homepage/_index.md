@@ -1,14 +1,14 @@
 ---
 # Banner
 banner:
-  title: "Join us for ComfyCon AU 2024"
-  content: <div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countdown/4480727" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="Countdown to ComfyCon AU 2024"></iframe></div><br><br><div class="mx-auto" style="text-align:center; margin:auto; display:block;"><iframe width="560" height="315" src="https://www.youtube.com/embed/JFVsO34LV7o?si=oZI9OBs1nwJcnq-B" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="margin:auto"></iframe></div><br /> <br /> Join us at https://discord.gg/FCcbX866CN
+  title: "Join us for ComfyCon AU 2025"
+  content: <div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><iframe src="https://www.tickcounter.com/countdown/6746761" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="Countdown to ComfyCon AU 2024"></iframe></div><br><br><div class="mx-auto" style="text-align:center; margin:auto; display:block;"><iframe width="560" height="315" src="https://www.youtube.com/embed/JFVsO34LV7o?si=oZI9OBs1nwJcnq-B" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="margin:auto"></iframe></div><br /> <br /> Join us at https://discord.gg/FCcbX866CN
   image: "/images/discord.png"
 
 # Features
 features:
-  - title: "6th and 7th of April from 12pm (AEDT)"
-    image: "/images/1691663441674.jpg"
+  - title: "21st June from 12pm (AEDT)"
+    image: "/images/winter_2025.jpg"
     content: "Join from your couch!"
     bulletpoints:
       - "We aim to have a casual conference, with people talking about things that interest them and the rest of the community. You can be at home, in your pyjamas, drinking a beer, and we'll take you."
