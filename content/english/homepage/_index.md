@@ -8,7 +8,7 @@ banner:
 # Features
 features:
   - title: "21st June from 12pm (AEDT)"
-    image: "/images/winter_2025.jpg"
+    image: "/images/winter_2025.png"
     content: "Join from your couch!"
     bulletpoints:
       - "We aim to have a casual conference, with people talking about things that interest them and the rest of the community. You can be at home, in your pyjamas, drinking a beer, and we'll take you."
