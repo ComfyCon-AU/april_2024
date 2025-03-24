@@ -7,7 +7,7 @@ banner:
     enable: true
     label: "Submit to ComfyCon AU 2025"
     link: "https://forms.gle/pyef5QEj1ASiMy9o8"
-
+  image: "/images/winter_2025.png"
 # Features
 features:
   - title: "21st June from 12pm (AEDT)"
