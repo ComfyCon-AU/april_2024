@@ -22,11 +22,11 @@ url = "cfp/"
 weight = 4
 hasChildren = true
 
-#[[main]]
-#parent = "CFP"
-#weight = 1
-#name = "ComfyConAU CFP"
-#url = "cfp/"
+[[main]]
+parent = "CFP"
+weight = 1
+name = "ComfyConAU CFP"
+url = "cfp/"
 
 [[main]]
 parent = "CFP"
