@@ -3,13 +3,23 @@
 banner:
   title: "Join us for ComfyCon AU 2025"
   content: <div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countdown/6746799" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="ComfyCon AU 2025"></iframe></div></div><br><br><div class="mx-auto" style="text-align:center; margin:auto; display:block;"></div><br /> <br /> Join us at https://discord.gg/FCcbX866CN
-  image: "/images/discord.png"
   button:
     enable: true
     label: "Submit to ComfyCon AU 2025"
     link: "https://forms.gle/pyef5QEj1ASiMy9o8"
+
 # Features
 features:
+  - title: "Join us on Discord!"
+    image: "/images/discord.png"
+    content: "Join from your couch!"
+    bulletpoints:
+      - Come join the community on our Discord Server
+    button:
+      enable: true
+      label: "Join ComfyCon AU Discord"
+      link: "https://discord.gg/FCcbX866CN"
+
   - title: "21st June from 12pm (AEDT)"
     image: "/images/winter_2025.png"
     content: "Join from your couch!"
