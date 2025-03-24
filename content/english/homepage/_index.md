@@ -10,16 +10,6 @@ banner:
 
 # Features
 features:
-  - title: "Join us on Discord!"
-    image: "/images/discord.png"
-    content: "Join from your couch!"
-    bulletpoints:
-      - Come join the community on our Discord Server
-    button:
-      enable: true
-      label: "Join ComfyCon AU Discord"
-      link: "https://discord.gg/FCcbX866CN"
-
   - title: "21st June from 12pm (AEDT)"
     image: "/images/winter_2025.png"
     content: "Join from your couch!"
@@ -31,6 +21,17 @@ features:
       enable: true
       label: "About ComfyCon"
       link: "about"
+
+  - title: "Join us on Discord!"
+    image: "/images/ascii-art.png"
+    content: "Join from your couch!"
+    bulletpoints:
+      - Come join the community on our Discord Server
+      - This is the main community forum for our conferences, and is full of amazing people
+    button:
+      enable: true
+      label: "Join ComfyCon AU Discord"
+      link: "https://discord.gg/FCcbX866CN"
 
   - title: "Have you done this before?"
     image: "/images/past_comfies.png"
