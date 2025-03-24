@@ -6,7 +6,7 @@ banner:
   button:
     enable: true
     label: "Submit to ComfyCon AU 2025"
-    link: "https://forms.gle/pyef5QEj1ASiMy9o8"
+    link: "cfp"
   image: "/images/winter_2025.png"
 # Features
 features:
