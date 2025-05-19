@@ -2,15 +2,11 @@
 # Banner
 banner:
   title: "Join us for ComfyCon AU 2025"
-  content: <div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countdown/6746799" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="ComfyCon AU 2025"></iframe></div></div><br><br><div class="mx-auto" style="text-align:center; margin:auto; display:block;"></div>
-  button:
-    enable: true
-    label: "Submit to ComfyCon AU 2025"
-    link: "cfp"
+  content: Postponed to later in 2025
   image: "/images/logo.png"
 # Features
 features:
-  - title: "21st June from 12pm (AEDT)"
+  - title: "ComfyCon AU 2025 Postponed to later in 2025!"
     image: "/images/winter_2025.png"
     content: "Join from your couch!"
     bulletpoints:

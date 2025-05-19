@@ -5,9 +5,7 @@ description: "Want to know more about the ComfyCon CFP, you're in the right plac
 image: false
 draft: false
 ---
-{{< button label="Submit here" link="https://forms.gle/pyef5QEj1ASiMy9o8" style="solid" target="_blank" >}}
-
-ComfyCon AU 2025 CFP is currently open.
+ComfyCon AU 2025 CFP is currently closed due to postponement. We may open again later this year.
 
 ### ComfyCon call for papers guidelines, hints & tips
 
