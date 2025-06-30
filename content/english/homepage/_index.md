@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Join us for ComfyCon AU 2025!"
-  content: Starting 1400 AEDT/AEST until 2100 then moving into [PancakesCon!](https://pancakescon.com/)
+  content: September 21st, 1400 AEDT/AEST September 21st until 2100 then moving into [PancakesCon!](https://pancakescon.com/)
   image: "/images/logo.png"
 # Features
 features:
