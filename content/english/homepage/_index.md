@@ -1,17 +1,18 @@
 ---
 # Banner
 banner:
-  title: "Join us for ComfyCon AU 2025"
-  content: Postponed to later in 2025
+  title: "Join us for ComfyCon AU 2025!"
+  content: Starting 1400 AEDT/AEST until 2100 then moving into PancakesCon!
   image: "/images/logo.png"
 # Features
 features:
-  - title: "ComfyCon AU 2025 Postponed to later in 2025!"
+  - title: "ComfyCon AU 2025 is partnered with PancakesCon!"
     image: "/images/winter_2025.png"
     content: "Join from your couch!"
     bulletpoints:
-      - "We aim to have a casual conference, with people talking about things that interest them and the rest of the community. You can be at home, in your pyjamas, drinking a beer, and we'll take you."
-      - We welcome all Australian and New Zealand speakers (although international speakers are welcome too if you want to stay up late!) to talk about Cyber Security, and Cyber Security Adjacent topics, close to their hearts.
+      - "PancakesCon and ComfyCon AU have a shared history, to the point that we are only days apart in age (PancakesCon being wiser of course). We both wanted to meet the need of COVID - a shared environment to have a casual conference, with people talking about things that interest them and the rest of the community. You can be at home, in your pyjamas, drinking a beer, and you are more than welcome."
+      - This year will be slightly different. We will have a mammoth 18 hour conference, starting in Australia and New Zealand, and moving across the Pacific to the US, and into Europe. 
+      -  We welcome all Australian and New Zealand speakers (although international speakers are welcome too if you want to stay up late!) to talk about Cyber Security, and Cyber Security Adjacent topics, close to their hearts.
 
     button:
       enable: true
