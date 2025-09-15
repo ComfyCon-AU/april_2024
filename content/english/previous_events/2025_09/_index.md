@@ -2,10 +2,10 @@
 title: "ComfyCon AU, September 2025"
 meta_title: ""
 description: "Lets have a party with PancakesCon!"
-image: "images/winter_2025.jpg"
+image: "images/winter_2025.png"
 ---
 
-# Sunday 21st Septembe
+# Sunday 21st September
 | Time (UTC+10) | Talk                                                                               | Length | Speaker          |
 | ------------- | ---------------------------------------------------------------------------------- | ------ | ---------------- |
 | 12:00         | Welcome to #ComfyConAU 2025                                                        | 00:05  | icd              |
