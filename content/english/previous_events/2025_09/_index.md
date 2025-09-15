@@ -5,23 +5,27 @@ description: "Lets have a party with PancakesCon!"
 image: "images/winter_2025.jpg"
 ---
 
-# Sunday 21st September
-| Time (UTC+11)             | Talk | Length | Speaker |
-|---------------------------|------|--------|---------|
-| 12:00                     | Welcome to #ComfyConAU 2024 | 00:10 | icd + shanna |
-| 12:15                     | [Profit from Misery](https://au.comfycon.rocks/previous_events/2024_04/profit-from-misery/) | 00:20 | Aaron |
-| 12:40                     | Retrospect Labs Competition | 00:10 | icd + shanna |
-| 12:55                     | [Influencing Security with no authority - Lessons from the field](https://au.comfycon.rocks/previous_events/2024_04/influencing-security-with-no-authority---lessons-from-the-field/) | 00:30 | Sam Hitchiner |
-| 13:30                     | [Supply Chain Security: Eating SLSA for Breakfast](https://au.comfycon.rocks/previous_events/2024_04/supply-chain-security--eating-slsa-for-breakfast/) | 00:20 | Ben Gittins |
-| 13:55                     | [Thinking of starting your own company? Do it! But maybe listen to this first](https://au.comfycon.rocks/previous_events/2024_04/thinking-of-starting-your-own-company--do-it-but-maybe-listen-to-this-first/) | 00:20 | Ryan Mclaren|
-| 14:20                     | [So you wanna be a freelancer?](https://au.comfycon.rocks/previous_events/2024_04/so-you-wanna-be-a-freelancer-/) | 00:30 | Corch |
-| 14:55                     | Break (15 minutes) | 00:15 |  |
-| 15:15                     | [Embracing the power of Neurodiversity in Cybersecurity](https://au.comfycon.rocks/previous_events/2024_04/embracing-the-power-of-neurodiversity-in-cybersecurity/) | 00:30 | Emily Holyoake|
-| 15:50                     | [Introduction to Threat modelling](https://au.comfycon.rocks/previous_events/2024_04/introduction-to-threat-modelling/) | 00:30 | Matt Belvedere |
-| 16:25                     | [Why Security Initiatives Are Doomed to Fail and What You Can Do About It](https://au.comfycon.rocks/previous_events/2024_04/why-security-initiatives-are-doomed-to-fail-and-what-you-can-do-about-it/) | 00:30 | Josh Armitage |
-| 17:00                     | [What do you really need to authenticate?](https://au.comfycon.rocks/previous_events/2024_04/what-do-you-really-need-to-authenticate-/) | 00:20 | Matt Strahan |
-| 17:25                     | Dinner Break (30 minutes) | 00:30 |  |
-| 18:00                     | [GRC is for everyone: demystifying the what, where and why of Governance, Risk & Compliance in Australia](https://au.comfycon.rocks/previous_events/2024_04/grc-is-for-everyone--demystifying-the-what-where-and-why-of-governance-risk--compliance-in-australia/) | 00:30 | Cam La |
-| 18:35                     | [To Insert, Swipe or Touch: A Credit Card Dilemma](https://au.comfycon.rocks/previous_events/2024_04/to-insert-swipe-or-touch--a-credit-card-dilemma/) | 00:20 | Chloe Pang |
-| 19:00                     | [Biohacking wellness: physical and mental](https://au.comfycon.rocks/previous_events/2024_04/biohacking-wellness--physical-and-mental/) | 00:30 | Danarchi |
-| 19:35                     | Close out and thank you | 00:10 | icd + shanna |
+# Sunday 21st Septembe
+| Time (UTC+10) | Talk                                                                               | Length | Speaker          |
+| ------------- | ---------------------------------------------------------------------------------- | ------ | ---------------- |
+| 12:00         | Welcome to #ComfyConAU 2025                                                        | 00:05  | icd              |
+| 12:10         | Earth, Wind and Fire - the GRC Elements                                                           | 00:30  | Allen            |
+| 12:45         | Introducing OpenCASE - The Open Cybersecurity Architecture for Small Enterprise    | 00:30  | Corch            |
+| 13:20         | How the bleep did we get here?                                                     | 00:30  | Deany and Simon  |
+| 13:55         | Homegrown Cyber Ranges: What You Can Build With Almost Nothing                     | 00:20  | George           |
+| 14:20         | Security: it's not rocket surgery                                                  | 00:30  | Cin              |
+| 14:55         | Break (25 minutes)                                                                 | 00:20  |                  |
+| 15:20         | The Periodic Table of \*bad\* characters                                           | 00:20  | David Leadbeater |
+| 15:45         | The Veilid Framwork - secure, distributed, anonymous, p2p?                         | 00:30  | Jim Cheetham     |
+| 16:20         | It's a bird, it's a plane, no, it's Managed Apple Account!                         | 00:30  | Kirushan         |
+| 16:55         | Measuring Cyber Risk, fun journey or is it?                                        | 00:30  | Morty            |
+| 17:30         | Break (25 minutes)                                                                 | 00:25  |                  |
+| 18:00         | Be Less Primitive to Be More Secure                                                | 00:30  | James Cooper     |
+| 18:35         | Homelabs for Hackers: Breaking Things at Home So You Don’t Do It at Work           | 00:30  | Shreyans Jain    |
+| 19:10         | Know the enemy and know yourself – relevance of criminology to fighting cybercrime | 00:30  | empressbat       |
+| 19:45         | From HUMINT to Harm; Abusing the TTP.                                              | 00:30  | Benzies          |
+| 20:20         | What!? Is my life that fragile?                                                    | 00:30  | hoodiePony           |
+| 20:55         | Handover to Pancakes Con                                                           | 00:05  |                  |
+| 21:05         |                                                                                    | 07:35  |                  |
+
+
