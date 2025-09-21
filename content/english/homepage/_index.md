@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Join us for ComfyCon AU 2025!"
-  content: September 21st, 1200 AEDT/AEST September 21st until 2100 then moving into [PancakesCon!](https://pancakescon.com/)<iframe width="560" height="315" src="https://www.youtube.com/embed/P4Shsxwe5C0?si=IxGcnqpMmE79SPlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  content: September 21st, 1200 AEDT/AEST September 21st until 2100 then moving into [PancakesCon!](https://pancakescon.com/)<iframe width="560" height="315" src="https://www.youtube.com/embed/Q9t2DE2T3Os?si=oGI8MZPr0BlyL7AY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   image: "/images/logo.png"
 # Features
 features:
