@@ -1,15 +1,16 @@
 ---
-title: "Call for papers"
-meta_title: "CFP"
-description: "Want to know more about the ComfyCon CFP, you're in the right place."
+title: "CFP Guidelines"
+meta_title: "CFP Guidelines"
+description: "ComfyCon AU CFP guidance for future speakers and anyone working on a friendly cyber security talk proposal."
 image: false
 draft: false
 ---
-[Click here for ComfyCon CFP](https://forms.gle/3xzCMWzMrPWTzqeC9)
 
-### ComfyCon call for papers guidelines, hints & tips
+### ComfyCon call for papers guidelines, hints and tips
 
-We welcome all Australian and New Zealand speakers (although international speakers are welcome too if you want to stay up late!) to talk about Cyber Security, and Cyber Security Adjacent topics, close to their hearts. Topics from the past include:
+There is no current ComfyCon AU CFP open, so this page is here as an archive-friendly guide for future speakers and anyone polishing a cyber security talk idea from the couch.
+
+When ComfyCon AU is accepting talks, the CFP usually welcomes Australian and New Zealand speakers, with international speakers welcome too if they want to stay up late. Speakers can talk about Cyber Security, and Cyber Security Adjacent topics, close to their hearts. Topics from the past include:
 
 - Career transitions into cyber security
 - Meditation, and other mental health issues.
@@ -19,9 +20,9 @@ We welcome all Australian and New Zealand speakers (although international speak
 
 But if you have something to talk about we'll (most likely) be happy to host you!
 
-We aim to have a casual conference, with people talking about things that interest them and the rest of the community. You can be at home, in your pyjamas, drinking a beer, and we'll take you.
+ComfyCon AU aims to be a casual conference, with people talking about things that interest them and the rest of the community. You can be at home, in your pyjamas, drinking a beer, and we'll take you.
 
-All talk submissions are reviewed by the organisers before selection. There is no double blind randomised selection, we just pick the talks that sound good. We may contact you for more details.
+When a CFP is open, talk submissions are reviewed by the organisers before selection. There is no double blind randomised selection, we just pick the talks that sound good. We may contact you for more details.
 
 #### Please note:
 

@@ -1,7 +1,7 @@
 ---
-title: "How to CFP"
+title: "CFP Writing Resources"
 meta_title: "CFP Writing"
-description: "Submitting a CFP? Read this."
+description: "Evergreen resources for writing friendly, clear cyber security talk proposals."
 image: false
 draft: false
 ---

@@ -12,32 +12,27 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "2025 Schedule"
-url = "previous_events/2025_09"
-weight = 3
-
-[[main]]
-name = "CFP"
+name = "Speaking Resources"
 url = "cfp/"
 weight = 4
 hasChildren = true
 
 [[main]]
-parent = "CFP"
+parent = "Speaking Resources"
 weight = 1
-name = "ComfyConAU CFP"
+name = "CFP Guidelines"
 url = "cfp/"
 
 [[main]]
-parent = "CFP"
+parent = "Speaking Resources"
 weight = 2
-name = "CFP writing"
+name = "CFP Writing"
 url = "cfp/cfp_writing/"
 
 [[main]]
-parent = "CFP"
+parent = "Speaking Resources"
 weight = 3
-name = "Speaker resources"
+name = "Speaker Resources"
 url = "cfp/speaker_resources/"
 
 [[main]]
@@ -75,6 +70,12 @@ parent = "Previous Events"
 weight = 5
 name = "April 2024"
 url = "previous_events/2024_04/"
+
+[[main]]
+parent = "Previous Events"
+weight = 6
+name = "September 2025"
+url = "previous_events/2025_09/"
 
 # footer menu
 [[footer]]

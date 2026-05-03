@@ -1,7 +1,7 @@
 ---
-title: "Speaker resources"
-meta_title: "Speaker resources"
-description: "Speaker resources for creating presentations."
+title: "Speaker Resources"
+meta_title: "Speaker Resources"
+description: "Evergreen resources for creating and polishing conference presentations."
 image: false
 draft: false
 ---

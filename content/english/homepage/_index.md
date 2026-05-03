@@ -1,23 +1,23 @@
 ---
 # Banner
 banner:
-  title: "Join us for ComfyCon AU 2025!"
-  content: September 21st, 1200 AEDT/AEST September 21st until 2100 then moving into [PancakesCon!](https://pancakescon.com/)<iframe width="560" height="315" src="https://www.youtube.com/embed/Q9t2DE2T3Os?si=oGI8MZPr0BlyL7AY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  title: "ComfyCon AU is resting on the couch"
+  content: There is no current ComfyCon AU event on the calendar, so this site is keeping the cushions warm as an archive and community hub. Browse past schedules and talks, revisit the comfy chaos, and come hang out with the community on Discord.
   image: "/images/logo.png"
 # Features
 features:
-  - title: "ComfyCon AU 2025 is partnered with PancakesCon!"
+  - title: "Catch up on past ComfyCon AU events"
     image: "/images/winter_2025.png"
     content: "Join from your couch!"
     bulletpoints:
-      - "[PancakesCon](https://pancakescon.com/) and ComfyCon AU have a shared history, to the point that we are only days apart in age (PancakesCon being wiser of course). We both wanted to meet the need of COVID - a shared environment to have a casual conference, with people talking about things that interest them and the rest of the community. You can be at home, in your pyjamas, drinking a beer, and you are more than welcome."
-      - This year will be slightly different. We will have a mammoth 18 hour conference, starting in Australia and New Zealand, and moving across the Pacific to the US, and into Europe. 
-      -  We welcome all Australian and New Zealand speakers (although international speakers are welcome too if you want to stay up late!) to talk about Cyber Security, and Cyber Security Adjacent topics, close to their hearts.
+      - The ComfyCon AU archive is the best place to find schedules, speakers, and past talks from the couch-friendly cyber security conference that started when everyone needed a softer kind of hallway track.
+      - September 2025 has joined the previous-events collection, alongside the earlier comfy gatherings from 2020, 2022, and 2024.
+      - We are not advertising a current CFP or upcoming event right now, but the community is still very much around.
 
     button:
       enable: true
-      label: "About ComfyCon"
-      link: "about"
+      label: "Browse Previous Events"
+      link: "previous_events"
 
   - title: "Join us on Discord!"
     image: "/images/ascii-art.png"
@@ -39,4 +39,5 @@ features:
       - "We came back bigger than ever in April 2022: **The new normal**."
       - "Just when we swore we'd never do it in summer again: **Better together**."
       - "2024 was the year we celebrated you all: **Everyone's a hero in their own way**."
+      - "In September 2025 we joined forces with PancakesCon for one extra-comfy global relay."
 ---
