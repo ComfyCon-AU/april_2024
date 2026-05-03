@@ -24,7 +24,7 @@ hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/K
 
 ########################## Permalinks ############################
 [permalinks.page]
-"pages" = "/:slugorcontentbasename/"
+"pages" = "/:slugorfilename/"
 
 
 ############################# Modules ############################
